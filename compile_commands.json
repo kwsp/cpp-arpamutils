@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tiger/code/C++/USPAMproc/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++17 -o CMakeFiles/demo.dir/main.cpp.o -c /home/tiger/code/C++/USPAMproc/main.cpp",
+  "file": "/home/tiger/code/C++/USPAMproc/main.cpp"
+}
+]
